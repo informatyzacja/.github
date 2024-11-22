@@ -10,7 +10,6 @@ Zarekrutuj się w co semestralnej rekrutacji i dołącz do naszego grona pasjona
 
 Informacje o naszej komisji znajedziesz [tutaj](https://samorzad.pwr.edu.pl/samorzad/komisje/komisja-ds-informatyzacji)
 
-Informacje na temat projektów będą wkrótce
 <!--
 
 **Here are some ideas to get you started:**
